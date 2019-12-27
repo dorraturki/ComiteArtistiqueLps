@@ -1,0 +1,70 @@
+/*
+#1 = 85b0be #dd9595
+#2 = 95cbdd #edafaf
+6D0000
+*/
+
+a:hover {
+	color: #dd9595;
+}
+
+/* menu */
+.nav>li>a:hover {
+	color: #dd9595;
+}
+
+.navbar .navbar-nav > .active > a {
+	color: #dd9595;
+	border-bottom: 4px solid #edafaf;
+}
+
+/* flexslider */
+.flex-control-paging li a {
+	background: #edafaf;
+}
+
+
+.testimonial span.author a {
+	color: #dd9595;
+}
+
+/* --- icon box hover --- */
+.hi-icon-effect-5 .hi-icon {
+	color: #a50101;
+	box-shadow: 0 0 0 4px #a50101;
+}
+.no-touch .hi-icon-effect-5 .hi-icon:hover {
+	background: #a50101;
+	box-shadow: 0 0 0 8px  #a50101;
+}
+
+
+/* portfolio */
+.portfolio-item .portfolio-desc {
+	background: #a32626;
+}
+
+/* btn */
+.btn-theme {
+  background: #a50101;
+}
+.btn-theme:hover,.btn-theme:focus,.btn-theme:active{
+  background: #a50101;
+}
+.btn-cta,.btn-cta.btn-lg {
+  background: #a50101;
+  border-color: #a50101;
+}
+
+.btn-cta:focus,.btn-cta:active{
+   border-color: #a50101;
+}
+
+/* footer */
+.social-circle li a {
+	background:#dd9595;
+}
+
+a.scrollup{
+	background:#dd9595;
+}
